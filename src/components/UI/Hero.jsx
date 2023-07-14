@@ -30,7 +30,7 @@ const Hero = () => {
                                         <i class="ri-mail-line"></i>Hire Me
                                     </button>
                                 </a>
-                                <a href={CV} download="CV_Zulfan" target="_blank" rel="noopener noreferrer" className="text-smallTextColor font-[600] text-[17px] border-b border-solid border-smallTextColor hover:animate-bounce">Download CV
+                                <a href={CV} download="CV_Zulfan.pdf" target="_blank" rel="noopener noreferrer" className="text-smallTextColor font-[600] text-[17px] border-b border-solid border-smallTextColor hover:animate-bounce">Download CV
                                 <i class="ri-file-download-line"></i>
                                 </a>
                         </div>
